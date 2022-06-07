@@ -1,0 +1,15 @@
+segment,# of customers,,average recency,days,,,,# of orders,# of customers
+Loyal Customers,291,,Loyal Customers,256,256,,,1,42
+Others,472,,Others,305,305,,,2,83
+Best Customers,73,,Best Customers,74,74,,,3,143
+Big Spenders,35,,Big Spenders,321,321,,,4,187
+Lost Cheap Customers,70,,Lost Cheap Customers,619,619,,,5,176
+"Lost Customers	",12,,"Lost Customers	",96,96,,,6,150
+Recent Customers,24,,Recent Customers,127,127,,,7,94
+"Almost Lost	",18,,"Almost Lost	",175,175,,,8,51
+,,,,,,,,9,38
+,,,,,,,,10,20
+,,,,,,,,11,3
+,,,,,,,,12,5
+,,,,,,,,13,2
+,,,,,,,,14,1
